@@ -7,6 +7,10 @@
 [简体中文](./README_zh.md)
 [English](./README.md)
 
+## Python版本在哪里？
+
+这里：[QtForPython分支](https://github.com/Niwik-Dev/QRippleEffect/tree/QtForPython)
+
 ## 简介
 <p>
   
