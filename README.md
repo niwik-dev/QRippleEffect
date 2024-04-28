@@ -7,10 +7,6 @@
 [简体中文](./README_zh.md)
 [English](./README.md)
 
-## Where's Python Version?
-
-Here [QtForPython Branch](https://github.com/Niwik-Dev/QRippleEffect/tree/QtForPython)
-
 ## Brief Introduction
 <p>
   
