@@ -71,7 +71,7 @@ Here [QtForPython Branch](https://github.com/Niwik-Dev/QRippleEffect/tree/QtForP
     <tr>
       <td>opacityAnimationDuration</td>
       <td>Duration of Animation on Opacity</td>
-      <td>The larger the value, the faster the water ripple visually dissipates</td>
+      <td>The larger the value, the slower the water ripple visually dissipates</td>
     </tr>
     <tr>
       <td>opacityAnimationEasingCurve</td>
