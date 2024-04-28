@@ -92,4 +92,6 @@
 
 ![例子](https://github.com/Niwik-Dev/QRippleEffect/assets/168296107/daa73c9f-2d45-40df-a91d-2cf01b368721)
 
+> The actual effect is not based on the Gif image. The frame drop problem of GifCam is quite serious. (laugh
+
 See `test.cpp` for this sample
