@@ -1,8 +1,8 @@
 from dataclasses import dataclass
 from enum import Enum, unique
 
-from PySide6.QtCore import Qt, QEasingCurve
-from PySide6.QtGui import QColor
+from qtpy.QtCore import Qt, QEasingCurve
+from qtpy.QtGui import QColor
 
 
 @unique

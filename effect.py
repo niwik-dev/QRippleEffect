@@ -1,8 +1,8 @@
 import math
 
-from PySide6.QtCore import QPoint, Qt, Signal, QObject, QEvent, QRect, QPropertyAnimation
-from PySide6.QtGui import QPainter, QColor, QMouseEvent
-from PySide6.QtWidgets import QGraphicsEffect, QWidget
+from qtpy.QtCore import QPoint, Qt, Signal, QObject, QEvent, QRect, QPropertyAnimation
+from qtpy.QtGui import QPainter, QColor, QMouseEvent
+from qtpy.QtWidgets import QGraphicsEffect, QWidget
 
 from entity import Ripple
 from option import RippleOption, StartPointOption

@@ -1,5 +1,5 @@
-from PySide6.QtCore import QObject, QPointF, Signal, Property
-from PySide6.QtGui import QColor
+from qtpy.QtCore import QObject, QPointF, Signal, Property
+from qtpy.QtGui import QColor
 
 
 class Ripple(QObject):

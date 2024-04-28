@@ -1,7 +1,7 @@
 import sys
 
-from PySide6.QtGui import QColor
-from PySide6.QtWidgets import QWidget, QApplication, QPushButton, QHBoxLayout, QVBoxLayout
+from qtpy.QtGui import QColor
+from qtpy.QtWidgets import QWidget, QApplication, QPushButton, QHBoxLayout, QVBoxLayout
 
 from effect import RippleEffect
 from option import RippleOption, StartPointOption
